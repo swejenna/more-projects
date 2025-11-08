@@ -20,8 +20,14 @@ This project visualizes NASA fireball data (detected meteor events) from 2010 to
   - folium
   - matplotlib
   - seaborn
+ 
+## Interactive Web Map
+
+## Bar chart
+<img width="2560" height="1080" alt="Screenshot 2025-11-07 at 3 32 20 PM" src="https://github.com/user-attachments/assets/8b7b9e31-ff3a-447a-a9bc-57394ad35f91" />
 
 ## Installation
+<img width="2560" height="1080" alt="Screenshot 2025-11-07 at 3 40 56 PM" src="https://github.com/user-attachments/assets/de61a4a7-a7d7-42e7-ab3f-aea03ea10f43" />
 
 ```bash
 pip install nasapy pandas numpy folium matplotlib seaborn
